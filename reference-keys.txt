@@ -1,0 +1,13 @@
+fig:nice-fig
+tab:nice-tab
+intro
+figures-and-tables
+figures
+tables
+something-else
+literature
+methods
+applications
+example-one
+example-two
+final-words
