@@ -1,5 +1,5 @@
 --- 
-title: "A Less than Minimal Book Example"
+title: "A More than Minimal Book Example"
 author: "Lachlan Deer"
 date: "`r Sys.Date()`"
 bibliography:
