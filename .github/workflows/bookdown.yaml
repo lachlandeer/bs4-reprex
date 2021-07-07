@@ -38,7 +38,7 @@ jobs:
 
       - name: Install packages
         run: |
-          install.packages(c("remotes"))
+          install.packages(c("remotes", "sessioninfo"))
           remotes::install_deps(dependencies = TRUE, force = TRUE)
         shell: Rscript {0}
 
