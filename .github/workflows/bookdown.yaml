@@ -4,9 +4,11 @@ on:
       - main
       - master
 
-name: bookdown
+name: renderbook
 
 jobs:
+  bookdown:
+  name: Render-Book
   build:
     runs-on: macOS-latest
     env:
